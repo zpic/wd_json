@@ -4,69 +4,87 @@
     "data": {
         "list": [
             {
-                "iD": "12312",
-                "title": "抽纸",
-                "imageUrl": "https://img13.360buyimg.com/focus/s140x140_jfs/t21769/101/124948952/48248/832ede7b/5afd568bN971e6358.jpg"
+                "id": 12314,
+                "name": "纸品湿巾",
+                "list": [
+                    {
+                        "id": "12312",
+                        "name": "抽纸",
+                        "imageUrl": "https://img13.360buyimg.com/focus/s140x140_jfs/t21769/101/124948952/48248/832ede7b/5afd568bN971e6358.jpg"
+                    },
+                    {
+                        "id": "12312",
+                        "name": "卷纸",
+                        "imageUrl": "https://img13.360buyimg.com/focus/s140x140_jfs/t22387/82/128171200/41534/fde69788/5afd5686N67808fa9.jpg"
+                    },
+                    {
+                        "id": "12312",
+                        "name": "手帕纸",
+                        "imageUrl": "https://img20.360buyimg.com/focus/s140x140_jfs/t18637/64/2549852710/37258/79908eff/5afd5681N00604b0d.jpg"
+                    },
+                    {
+                        "id": "12312",
+                        "name": "湿纸巾",
+                        "imageUrl": "https://img13.360buyimg.com/focus/s140x140_jfs/t22297/74/124765074/42169/447f046a/5afd567cNfc430327.jpg"
+                    },
+                    {
+                        "id": "12312",
+                        "name": "厨房纸巾",
+                        "imageUrl": "https://img10.360buyimg.com/focus/s140x140_jfs/t19225/80/2534738713/47306/263604a4/5afd5678N54ce98af.jpg"
+                    }
+                ]
             },
             {
-                "iD": "12312",
-                "title": "卷纸",
-                "imageUrl": "https://img13.360buyimg.com/focus/s140x140_jfs/t22387/82/128171200/41534/fde69788/5afd5686N67808fa9.jpg"
+                "id": 12314,
+                "name": "衣物清洁",
+                "list": [
+                    {
+                        "id": "12312",
+                        "name": "洗衣液",
+                        "imageUrl": "https://img12.360buyimg.com/focus/s140x140_jfs/t19987/98/558215522/32047/351256ff/5afd562dN5db3a834.jpg"
+                    },
+                    {
+                        "id": "12312",
+                        "name": "洗衣粉",
+                        "imageUrl": "https://img11.360buyimg.com/focus/s140x140_jfs/t19462/104/2571598475/45478/9f7da5fa/5afd5627Ne5de5630.jpg"
+                    },
+                    {
+                        "id": "12312",
+                        "name": "洗衣皂",
+                        "imageUrl": "https://img12.360buyimg.com/focus/s140x140_jfs/t21628/34/123674554/43500/dd39a8fa/5afd5622N45d600ba.jpg"
+                    },
+                    {
+                        "id": "12312",
+                        "name": "柔顺剂",
+                        "imageUrl": "https://img14.360buyimg.com/focus/s140x140_jfs/t18544/152/2609888412/32404/c9527c0f/5afd55faNa530f00e.jpg"
+                    },
+                    {
+                        "id": "12312",
+                        "name": "凝珠",
+                        "imageUrl": "https://img20.360buyimg.com/focus/s140x140_jfs/t20965/49/131053014/59271/c0533e1f/5afd55f4Na480a545.jpg"
+                    },
+                    {
+                        "id": "12312",
+                        "name": "除菌液",
+                        "imageUrl": "https://img13.360buyimg.com/focus/s140x140_jfs/t18367/201/2501678110/38390/7617d219/5afd55efN699a9345.jpg"
+                    }
+                ]
             },
             {
-                "iD": "12312",
-                "title": "手帕纸",
-                "imageUrl": "https://img20.360buyimg.com/focus/s140x140_jfs/t18637/64/2549852710/37258/79908eff/5afd5681N00604b0d.jpg"
-            },
-            {
-                "iD": "12312",
-                "title": "湿纸巾",
-                "imageUrl": "https://img13.360buyimg.com/focus/s140x140_jfs/t22297/74/124765074/42169/447f046a/5afd567cNfc430327.jpg"
-            },
-            {
-                "iD": "12312",
-                "title": "厨房纸巾",
-                "imageUrl": "https://img10.360buyimg.com/focus/s140x140_jfs/t19225/80/2534738713/47306/263604a4/5afd5678N54ce98af.jpg"
-            },
-            {
-                "iD": "12312",
-                "title": "洗衣液",
-                "imageUrl": "https://img12.360buyimg.com/focus/s140x140_jfs/t19987/98/558215522/32047/351256ff/5afd562dN5db3a834.jpg"
-            },
-            {
-                "iD": "12312",
-                "title": "洗衣粉",
-                "imageUrl": "https://img11.360buyimg.com/focus/s140x140_jfs/t19462/104/2571598475/45478/9f7da5fa/5afd5627Ne5de5630.jpg"
-            },
-            {
-                "iD": "12312",
-                "title": "洗衣皂",
-                "imageUrl": "https://img12.360buyimg.com/focus/s140x140_jfs/t21628/34/123674554/43500/dd39a8fa/5afd5622N45d600ba.jpg"
-            },
-            {
-                "iD": "12312",
-                "title": "柔顺剂",
-                "imageUrl": "https://img14.360buyimg.com/focus/s140x140_jfs/t18544/152/2609888412/32404/c9527c0f/5afd55faNa530f00e.jpg"
-            },
-            {
-                "iD": "12312",
-                "title": "凝珠",
-                "imageUrl": "https://img20.360buyimg.com/focus/s140x140_jfs/t20965/49/131053014/59271/c0533e1f/5afd55f4Na480a545.jpg"
-            },
-            {
-                "iD": "12312",
-                "title": "除菌液",
-                "imageUrl": "https://img13.360buyimg.com/focus/s140x140_jfs/t18367/201/2501678110/38390/7617d219/5afd55efN699a9345.jpg"
-            },
-            {
-                "iD": "12312",
-                "title": "洗洁精",
-                "imageUrl": "https://img14.360buyimg.com/focus/s140x140_jfs/t18433/53/2532228382/29889/e1387b5c/5afd5586N7f9ba945.jpg"
-            },
-            {
-                "iD": "12312",
-                "title": "消毒液",
-                "imageUrl": "https://img10.360buyimg.com/focus/s140x140_jfs/t19027/97/2581588567/48688/665a7663/5afd5581Nd2eeec39.jpg"
+                "id": 2345234,
+                "name": "家庭清洁",
+                "list": [
+                    {
+                        "id": "12312",
+                        "name": "洗洁精",
+                        "imageUrl": "https://img14.360buyimg.com/focus/s140x140_jfs/t18433/53/2532228382/29889/e1387b5c/5afd5586N7f9ba945.jpg"
+                    },
+                    {
+                        "id": "12312",
+                        "name": "消毒液",
+                        "imageUrl": "https://img10.360buyimg.com/focus/s140x140_jfs/t19027/97/2581588567/48688/665a7663/5afd5581Nd2eeec39.jpg"
+                    }
+                ]
             }
         ]
     }
